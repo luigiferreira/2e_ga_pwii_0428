@@ -1,0 +1,20 @@
+{
+  "name": "2e_ga_pwii_0428",
+  "version": "1.0.0",
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.",
+  "main": "index.js",
+  "scripts": {
+    "ngi": "npm i -g @angular/cli",
+    "gitconfig": "git config --local user.name'luigiferreira'; git config --local user.email'luigiferreira456@gmail.com'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigiferreira/2e_ga_pwii_0428.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luigiferreira/2e_ga_pwii_0428/issues"
+  },
+  "homepage": "https://github.com/luigiferreira/2e_ga_pwii_0428#readme"
+}

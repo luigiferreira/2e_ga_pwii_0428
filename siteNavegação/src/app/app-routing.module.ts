@@ -18,7 +18,12 @@ const routes: Routes = [
   {
     path: "detalheslivro",
     loadChildren: () => import("./components/detalhes-livro/detalhes-livro.module").then(m => m.DetalhesLivroModule)
+  },
+  {
+    path: "**",
+    loadChildren: () => import("./components/page-not-found/page-not-found.module").then(m => m.PageNotFoundModule)
   }
+
 ];
 
 @NgModule({
